@@ -1,0 +1,156 @@
+[18:00:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:00:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:00:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:00:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:00:11] [Server thread/INFO]: Starting minecraft server version 1.14.2
+[18:00:11] [Server thread/INFO]: Loading properties
+[18:00:11] [Server thread/INFO]: Default game type: SURVIVAL
+[18:00:11] [Server thread/INFO]: Generating keypair
+[18:00:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:00:11] [Server thread/INFO]: Using epoll channel type
+[18:00:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:00:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:00:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:00:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:00:11] [Server thread/INFO]: Preparing level "ZA WARUDO"
+[18:00:12] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:00:45] [Server thread/INFO]: Loaded 6 recipes
+[18:00:45] [Server thread/INFO]: Loaded 811 advancements
+[18:00:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:00:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:00:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:00:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:00:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:00:48] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[18:00:48] [Server thread/INFO]: Time elapsed: 2562 ms
+[18:00:48] [Server thread/INFO]: Done (36.690s)! For help, type "help"
+[18:23:53] [Server thread/INFO]: A player is required to run this command here
+[18:24:10] [Server thread/INFO]: Ulfvaldr112[/88.201.135.185:51102] logged in with entity id 172 at (703.2446339329254, 68.5625, -13.610024721727406)
+[18:24:10] [Server thread/INFO]: Ulfvaldr112 joined the game
+[18:24:55] [Server thread/INFO]: Incomplete (expected 3 coordinates)
+[18:24:55] [Server thread/INFO]: ...point 690 64 4<--[HERE]
+[18:25:02] [Server thread/WARN]: Keeping entity minecraft:witch that already exists with UUID 82dec967-7a7d-4de2-8c2e-cc9d8e4cb596
+[18:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7247ms or 144 ticks behind
+[18:27:18] [Server thread/WARN]: Keeping entity minecraft:cat that already exists with UUID 23c6e353-4657-4e7e-ad6e-40012e946b95
+[18:29:39] [Server thread/INFO]: Ulfvaldr112 tried to swim in lava to escape Zombie
+[18:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
+[18:36:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[18:41:00] [Server thread/INFO]: Ulfvaldr112 has made the advancement [Voluntary Exile]
+[18:41:10] [Server thread/WARN]: Ulfvaldr112 moved too quickly! 10.104511465667201,1.2491870787446828,1.1881267094627326
+[18:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3445ms or 68 ticks behind
+[18:46:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2797ms or 55 ticks behind
+[18:48:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:48:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[18:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:51:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[18:52:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[18:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[18:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[18:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[19:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[19:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[19:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
+[19:07:42] [Server thread/INFO]: Rumata[/176.53.193.27:60571] logged in with entity id 36340 at (697.9887883512209, 64.0, -12.955596017612553)
+[19:07:42] [Server thread/INFO]: Rumata joined the game
+[19:07:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6898ms or 137 ticks behind
+[19:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[19:08:13] [Server thread/INFO]: Rumata lost connection: Disconnected
+[19:08:13] [Server thread/INFO]: Rumata left the game
+[19:08:22] [Server thread/INFO]: Rumata[/176.53.193.27:60578] logged in with entity id 36754 at (697.9887883512209, 64.0, -12.955596017612553)
+[19:08:22] [Server thread/INFO]: Rumata joined the game
+[19:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:10:45] [Server thread/INFO]: Rumata has made the advancement [Monster Hunter]
+[19:11:06] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 73217fb5-e07c-48f3-b0fc-f2feb61579ab
+[19:12:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3495ms or 69 ticks behind
+[19:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3571ms or 71 ticks behind
+[19:17:40] [Server thread/INFO]: Rumata has made the advancement [Voluntary Exile]
+[19:22:14] [Server thread/WARN]: Rumata moved too quickly! 4.852465663183352,-2.592493010342835,8.458262306824059
+[19:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
+[19:22:23] [Server thread/INFO]: <Ulfvaldr112> 685 && 95
+[19:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[19:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[19:24:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5148ms or 102 ticks behind
+[19:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5291ms or 105 ticks behind
+[19:25:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[19:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3569ms or 71 ticks behind
+[19:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[19:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[19:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16122ms or 322 ticks behind
+[19:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7257ms or 145 ticks behind
+[19:27:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3633ms or 72 ticks behind
+[19:27:30] [Server thread/INFO]: Avokade[/5.18.233.20:43534] logged in with entity id 63758 at (112.5, 67.0, 2.5)
+[19:27:30] [Server thread/INFO]: Avokade joined the game
+[19:27:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6034ms or 120 ticks behind
+[19:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11430ms or 228 ticks behind
+[19:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14114ms or 282 ticks behind
+[19:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25772ms or 515 ticks behind
+[19:29:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15369ms or 307 ticks behind
+[19:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17274ms or 345 ticks behind
+[19:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20321ms or 406 ticks behind
+[19:31:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14649ms or 292 ticks behind
+[19:32:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14075ms or 281 ticks behind
+[19:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11468ms or 229 ticks behind
+[19:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12381ms or 247 ticks behind
+[19:33:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8459ms or 169 ticks behind
+[19:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6637ms or 132 ticks behind
+[19:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12012ms or 240 ticks behind
+[19:34:28] [Server thread/INFO]: <Avokade> gfes
+[19:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12328ms or 246 ticks behind
+[19:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6552ms or 131 ticks behind
+[19:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10439ms or 208 ticks behind
+[19:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5611ms or 112 ticks behind
+[19:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3815ms or 76 ticks behind
+[19:36:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
+[19:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[19:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4515ms or 90 ticks behind
+[19:37:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6324ms or 126 ticks behind
+[19:37:33] [Server thread/WARN]: Rumata moved too quickly! -7.055176497741513,0.0,-7.467429622319784
+[19:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20667ms or 413 ticks behind
+[19:38:34] [Server thread/INFO]: Ulfvaldr112 has made the advancement [Diamonds!]
+[19:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:39:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[19:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2962ms or 59 ticks behind
+[19:40:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
+[19:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[19:41:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:43:10] [Server thread/WARN]: Rumata moved too quickly! 2.4034904524004332,-6.5,-7.431093456593988
+[19:43:10] [Server thread/WARN]: Avokade moved too quickly! -10.094797954687806,0.0,0.5737187519282863
+[19:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9959ms or 199 ticks behind
+[19:43:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4220ms or 84 ticks behind
+[19:44:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3942ms or 78 ticks behind
+[19:48:05] [Server thread/INFO]: Rumata lost connection: Disconnected
+[19:48:05] [Server thread/INFO]: Rumata left the game
+[19:48:19] [Server thread/INFO]: Avokade lost connection: Disconnected
+[19:48:19] [Server thread/INFO]: Avokade left the game
+[19:48:25] [Server thread/WARN]: Ulfvaldr112 moved too quickly! 1.4029207847463567,0.6984652763372168,-10.084347195272839
+[19:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5829ms or 116 ticks behind
+[19:48:28] [Server thread/INFO]: Ulfvaldr112 lost connection: Disconnected
+[19:48:28] [Server thread/INFO]: Ulfvaldr112 left the game
+[19:48:38] [Server thread/INFO]: Stopping the server
+[19:48:38] [Server thread/INFO]: Stopping server
+[19:48:38] [Server thread/INFO]: Saving players
+[19:48:38] [Server thread/INFO]: Saving worlds
+[19:48:38] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:overworld
+[19:48:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZA WARUDO): All chunks are saved
+[19:48:46] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:the_end
+[19:48:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:48:46] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:the_nether
+[19:48:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:48:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZA WARUDO): All chunks are saved
+[19:48:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:48:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
