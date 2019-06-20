@@ -1,54 +1,49 @@
-[19:15:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:15:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:15:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:15:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:15:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:15:07] [Server thread/INFO]: Starting minecraft server version 1.14.2
-[19:15:07] [Server thread/INFO]: Loading properties
-[19:15:07] [Server thread/INFO]: Default game type: SURVIVAL
-[19:15:07] [Server thread/INFO]: Generating keypair
-[19:15:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:15:07] [Server thread/INFO]: Using epoll channel type
-[19:15:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:15:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:15:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:15:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:15:07] [Server thread/INFO]: Preparing level "ZA WARUDO"
-[19:15:07] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:15:36] [Server thread/INFO]: Loaded 6 recipes
-[19:15:37] [Server thread/INFO]: Loaded 811 advancements
-[19:15:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:15:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:15:38] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[19:15:39] [Server thread/INFO]: Preparing spawn area: 25%
-[19:15:39] [Server thread/INFO]: Time elapsed: 2345 ms
-[19:15:39] [Server thread/INFO]: Done (32.038s)! For help, type "help"
-[19:15:39] [Server thread/INFO]: Avokade[/5.18.233.20:43307] logged in with entity id 173 at (685.8905906183131, 66.0, -10.17392315812741)
-[19:15:39] [Server thread/INFO]: Avokade joined the game
-[19:15:53] [Server thread/INFO]: Ulfvaldr112[/88.201.135.185:58856] logged in with entity id 1217 at (2324.4250189480194, 95.0, -3714.5)
-[19:15:53] [Server thread/INFO]: Ulfvaldr112 joined the game
-[19:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4434ms or 88 ticks behind
-[19:16:40] [Server thread/INFO]: Rumata[/176.53.193.27:62620] logged in with entity id 2896 at (288.33855570458763, 83.0, -462.9162478515808)
-[19:16:40] [Server thread/INFO]: Rumata joined the game
-[19:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[19:17:02] [Server thread/INFO]: Ulfvaldr112 lost connection: Disconnected
-[19:17:02] [Server thread/INFO]: Ulfvaldr112 left the game
-[19:17:04] [Server thread/INFO]: Rumata lost connection: Disconnected
-[19:17:04] [Server thread/INFO]: Rumata left the game
-[19:17:15] [Server thread/INFO]: Stopping the server
-[19:17:15] [Server thread/INFO]: Stopping server
-[19:17:15] [Server thread/INFO]: Saving players
-[19:17:15] [Server thread/INFO]: Avokade lost connection: Server closed
-[19:17:15] [Server thread/INFO]: Avokade left the game
-[19:17:15] [Server thread/INFO]: Saving worlds
-[19:17:15] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:the_end
-[19:17:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:17:15] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:overworld
-[19:17:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZA WARUDO): All chunks are saved
-[19:17:23] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:the_nether
-[19:17:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:17:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:17:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZA WARUDO): All chunks are saved
-[19:17:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:27:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:27:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:27:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:27:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:27:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:27:54] [Server thread/INFO]: Starting minecraft server version 1.14.2
+[05:27:54] [Server thread/INFO]: Loading properties
+[05:27:54] [Server thread/INFO]: Default game type: SURVIVAL
+[05:27:54] [Server thread/INFO]: Generating keypair
+[05:27:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:27:54] [Server thread/INFO]: Using epoll channel type
+[05:27:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:27:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:27:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:27:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:27:55] [Server thread/INFO]: Preparing level "ZA WARUDO"
+[05:27:55] [Server thread/INFO]: Reloading ResourceManager: Default
+[05:28:18] [Server thread/INFO]: Loaded 6 recipes
+[05:28:23] [Server thread/INFO]: Loaded 811 advancements
+[05:28:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:28:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:28:25] [Server thread/INFO]: Preparing spawn area: 74%
+[05:28:25] [Server thread/INFO]: Time elapsed: 2142 ms
+[05:28:25] [Server thread/INFO]: Done (30.522s)! For help, type "help"
+[05:30:28] [Server thread/INFO]: Ulfvaldr112[/88.201.135.185:61101] logged in with entity id 115 at (-5.989293259363545, 65.0, -153.30933778755724)
+[05:30:28] [Server thread/INFO]: Ulfvaldr112 joined the game
+[05:31:32] [Server thread/INFO]: [Ulfvaldr112: Teleported Ulfvaldr112 to 700.5, 67.0, -29.5]
+[05:33:34] [Server thread/WARN]: Ulfvaldr112 moved too quickly! 9.426829974708312,-0.756759288177264,-4.453030139452693
+[05:33:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8653ms or 173 ticks behind
+[05:34:03] [Server thread/INFO]: Ulfvaldr112 lost connection: Disconnected
+[05:34:03] [Server thread/INFO]: Ulfvaldr112 left the game
+[05:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[06:48:11] [Server thread/INFO]: There are 0 of a max 10 players online: 
+[06:48:15] [Server thread/INFO]: Stopping the server
+[06:48:15] [Server thread/INFO]: Stopping server
+[06:48:15] [Server thread/INFO]: Saving players
+[06:48:15] [Server thread/INFO]: Saving worlds
+[06:48:15] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:the_nether
+[06:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:48:15] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:overworld
+[06:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZA WARUDO): All chunks are saved
+[06:48:15] [Server thread/INFO]: Saving chunks for level 'ZA WARUDO'/minecraft:the_end
+[06:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (ZA WARUDO): All chunks are saved
+[06:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

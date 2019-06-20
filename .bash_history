@@ -68,3 +68,27 @@ cd minecraft
 java -Xmx1024M -Xms1024M -jar server.jar nogui
 cd minecraft
 java -Xmx1024M -Xms1024M -jar server.jar nogui
+cd minecraft
+java -Xmx1024M -Xms1024M -jar server.jar nogui
+git push minecraft
+ls
+cd
+git push minecraft
+cd
+git init
+git add .
+git commit -m 'Server suck'
+git push origin master
+cd minecraft
+java -Xmx3G -Xms3G -jar server.jar
+java -Xmx3GG -XmsG -jar server.jar
+java -Xmx3G -Xms3G -jar server.jar
+cd minecraft
+java -Xmx3G -Xms3G -jar server.jar
+exit
+java -Xmx3G -Xms3G -jar server.jar
+cd minecraft
+java -Xmx3G -Xms3G -jar server.jar
+exit
+cd minecraft
+java -Xmx3G -Xms3G -jar server.jar
